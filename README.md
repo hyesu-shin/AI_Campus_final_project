@@ -43,3 +43,7 @@
 - 다양한 API와 데이터 활용
 - 모바일 환경 맞춤 제작
 
+
+## 상세 화면
+
+![image](https://user-images.githubusercontent.com/64633169/107618120-63c8dd80-6c94-11eb-9ba3-19210c17f79f.png)
