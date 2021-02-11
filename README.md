@@ -45,5 +45,7 @@
 
 
 ## 상세 화면
-
 ![image](https://user-images.githubusercontent.com/64633169/107618120-63c8dd80-6c94-11eb-9ba3-19210c17f79f.png)
+![image](https://user-images.githubusercontent.com/64633169/107618236-94107c00-6c94-11eb-8245-55842a337e87.png)
+![image](https://user-images.githubusercontent.com/64633169/107618250-98d53000-6c94-11eb-867d-78e2af3cedc5.png)
+
